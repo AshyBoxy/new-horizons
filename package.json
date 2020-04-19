@@ -1,0 +1,38 @@
+{
+  "name": "new-horizons",
+  "version": "1.0.0",
+  "description": "New Horizons Discord Bot",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "node tests/index.js"
+  },
+  "keywords": [
+    "bot",
+    "discord",
+    "ac",
+    "animal crossing"
+  ],
+  "author": "AshyBoxy",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^12.1.1",
+    "meant": "^1.0.1",
+    "node-fetch": "^2.6.0"
+  },
+  "engines": {
+    "node": "^12.16.x",
+    "npm": "^6.14.x"
+  },
+  "directories": {
+    "test": "tests"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AshyBoxy/new-horizons.git"
+  },
+  "bugs": {
+    "url": "https://github.com/AshyBoxy/new-horizons/issues"
+  },
+  "homepage": "https://github.com/AshyBoxy/new-horizons#readme"
+}

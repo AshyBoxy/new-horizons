@@ -1,0 +1,42 @@
+{
+    "cranky": {
+        "id": "cranky",
+        "name": "Cranky",
+        "description": "Cranky villagers typically act quite bitter, rude, and stubborn, being angered easily if things are not going their way (hence the name \"cranky\"). They are also, generally, out-of-touch with social trends, making them generally unpopular with peppy villagers."
+    },
+    "jock": {
+        "id": "jock",
+        "name": "Jock",
+        "description": "Jocks are often depicted as energetic and obsessed with sports, talking frequently about their love of sports and sporting progress. In Animal Crossing: New Leaf, they speak with loud, shouting voices, and often use slang such as \"bro\" (as in \"You're so cool, bro!\"), \"hit me up\", or \"yo\"."
+    },
+    "lazy": {
+        "id": "lazy",
+        "name": "Lazy",
+        "description": "Lazy villagers have a relaxed and laid-back approach to living in the town unlike the normal meaning, not being bothered by homework or chores and doing laid-back things. They appear somewhat goofy or naive, in the way they speak and talk about hobbies, particularly fashion."
+    },
+    "smug": {
+        "id": "smug",
+        "name": "Smug",
+        "description": "Smug villagers commonly act arrogant, boastful, and egotistical (hence the name \"smug\", which means prideful), which may lead to them unintentionally belittling the player in a similar manner to snooty villagers."
+    },
+    "normal": {
+        "id": "normal",
+        "name": "normal",
+        "description": "Normal villagers, despite being called \"normal\", are known for their sweet demure and naivete. Some common interests they have are reading or cooking, and often discuss what they read with the player. In this respect, they are the female counterpart to Lazy villagers."
+    },
+    "peppy": {
+        "id": "peppy",
+        "name": "Peppy",
+        "description": "Peppy villagers are energetic, friendly, and overly excited, allowing them to get along easily with many villagers. In Animal Crossing: New Leaf, they speak with chipper, bouncy voices and enjoy cheering when talking with players and other villagers; they are rarely discouraged from doing anything."
+    },
+    "snooty": {
+        "id": "snooty",
+        "name": "Snooty",
+        "description": "Snooty villagers are well-spoken and polite, but sometimes appear self-centered and arrogant towards other villagers, including the player. In Animal Crossing: New Leaf, they speak with a lower-pitched and sophisticated, almost charming voice, which sounds similar to the voices used by smug villagers."
+    },
+    "uchi": {
+        "id": "uchi",
+        "name": "Uchi",
+        "description": "Uchi villagers are often depicted as stubborn, rude, and easily offended at first glance, in a similar manner to cranky villagers, who also have a hostile behaviour. Uchi villagers also speak with gruff, accented voices, similar to the deep voices cranky villagers use, in reference to their \"tough\" attitudes."
+    }
+}
